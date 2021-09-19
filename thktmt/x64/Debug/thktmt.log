@@ -1,0 +1,9 @@
+﻿  File.cpp
+D:\Slide Kiến trúc\Đồ án 1\thktmt-hn\thktmt\File.cpp(1,1): warning C4005: '__CLR_VER': macro redefinition
+D:\Slide Kiến trúc\Đồ án 1\thktmt-hn\thktmt\pch.cpp : message : see previous definition of '__CLR_VER'
+D:\Slide Kiến trúc\Đồ án 1\thktmt-hn\thktmt\File.cpp(1,1): warning C4651: '/D__CLR_VER=40804180' specified for precompiled header but not for current compile
+D:\Slide Kiến trúc\Đồ án 1\thktmt-hn\thktmt\File.cpp(439,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Slide Kiến trúc\Đồ án 1\thktmt-hn\thktmt\File.cpp(464,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  File.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  thktmt.vcxproj -> D:\Slide Kiến trúc\Đồ án 1\thktmt-hn\x64\Debug\thktmt.exe

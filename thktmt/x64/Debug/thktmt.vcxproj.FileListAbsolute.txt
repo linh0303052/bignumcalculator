@@ -1,0 +1,3 @@
+D:\Slide Kiến trúc\Đồ án 1\thktmt-hn\thktmt\x64\Debug\thktmt.vcxprojAssemblyReference.cache
+D:\Slide Kiến trúc\Đồ án 1\thktmt-hn\thktmt\x64\Debug\thktmt.FormQint.resources
+D:\Slide Kiến trúc\Đồ án 1\thktmt-hn\thktmt\x64\Debug\thktmt.vcxproj.GenerateResource.cache
